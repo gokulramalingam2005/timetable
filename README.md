@@ -111,7 +111,7 @@ Execute the program
 </html>
 ```
 # OUTPUT
-![thindivanam](./GetOut.png)
+![O](./GetOut.png)
 
 # HTML VALIDATOR
-![chidambaram](./ComeIn.png)
+![H](./ComeIn.png)
